@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\romas\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\romas\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_test_AR_Sokur.-1126741759.00" t="ExcludeRecursive" />
+    <e p="C:\Users\romas\test_AR_Sokur" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="NativeGallery" t="Include">
+            <e p="Android" t="Include">
+              <e p="NGCallbackHelper.cs" t="Include" />
+              <e p="NGMediaReceiveCallbackAndroid.cs" t="Include" />
+              <e p="NGPermissionCallbackAndroid.cs" t="Include" />
+            </e>
+            <e p="Editor" t="Include">
+              <e p="NGPostProcessBuild.cs" t="Include" />
+            </e>
+            <e p="iOS" t="Include">
+              <e p="NGMediaReceiveCallbackiOS.cs" t="Include" />
+              <e p="NGMediaSaveCallbackiOS.cs" t="Include" />
+            </e>
+            <e p="NativeGallery.cs" t="Include" />
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="BackAndShareMenu" t="Include">
+            <e p="BackButton.cs" t="Include" />
+            <e p="ShareButton.cs" t="Include" />
+          </e>
+          <e p="ImageTarget" t="Include">
+            <e p="ImageTarget.cs" t="Include" />
+          </e>
+          <e p="Model" t="Include">
+            <e p="Run.cs" t="Include" />
+          </e>
+          <e p="Photo" t="Include">
+            <e p="PhotoButton.cs" t="Include" />
+          </e>
+          <e p="PopUpMenu" t="Include">
+            <e p="InfoButton.cs" t="Include" />
+            <e p="MailButton.cs" t="Include" />
+            <e p="MusicButton.cs" t="Include" />
+            <e p="PopUpMenuButton.cs" t="Include" />
+          </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="Vuforia" t="Include">
+            <e p="Marevo.xml" t="Include" />
+          </e>
+        </e>
+        <e p="Vuforia" t="Include">
+          <e p="Databases" t="Include">
+            <e p="Emulator" t="Include">
+              <e p="VuforiaEmulator.xml" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="OpenSourceInitializer.cs" t="Include" />
+              <e p="VuforiaEditorScripts.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BoundingBoxRenderer.cs" t="Include" />
+            <e p="DefaultInitializationErrorHandler.cs" t="Include" />
+            <e p="DefaultModelRecoEventHandler.cs" t="Include" />
+            <e p="DefaultTrackableEventHandler.cs" t="Include" />
+            <e p="Internal" t="Include">
+              <e p="RuntimeOpenSourceInitializer.cs" t="Include" />
+            </e>
+            <e p="VuforiaScripts.asmdef" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="BrightTexture.shader" t="Include" />
+            <e p="CameraDiffuse.shader" t="Include" />
+            <e p="ClippingMask.shader" t="Include" />
+            <e p="ColoredLines.shader" t="Include" />
+            <e p="DepthContour.shader" t="Include" />
+            <e p="DepthMask.shader" t="Include" />
+            <e p="OutlineOpaque.shader" t="Include" />
+            <e p="Text3D.shader" t="Include" />
+            <e p="VertexLitWithZ.shader" t="Include" />
+            <e p="VideoBackground.shader" t="Include" />
+            <e p="VuforiaVB_RGB.cginc" t="Include" />
+            <e p="VuforiaVB_YUV420P_YUVYV12.cginc" t="Include" />
+            <e p="VuforiaVB_YUVNV12_YUVNV21.cginc" t="Include" />
+            <e p="VuforiaVideoBackground.cginc" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="test_AR_Sokur.sln" t="IncludeFlat" />
+      <e p="VuforiaEditorScripts.csproj" t="IncludeRecursive" />
+      <e p="VuforiaScripts.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
